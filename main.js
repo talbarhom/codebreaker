@@ -1,4 +1,5 @@
 function init(){
+alert("Page is loaded");
 codegenerator();
 }
 
