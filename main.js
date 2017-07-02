@@ -1,5 +1,5 @@
 function init(){
-alert("Page is loaded");
+alert("Page is loaded 2");
 //codegenerator();
 }
 
