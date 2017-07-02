@@ -1,3 +1,12 @@
+function init(){
+codegenerator();
+}
+
+function codegenerator(){
+    var code = 1234;
+    document.getElementById('answer').innerHTML = code;
+
+
 function guess(){
     let answer = document.getElementById('answer').value;
     let attempt = document.getElementById('attempt').value;
