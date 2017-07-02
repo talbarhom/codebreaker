@@ -1,12 +1,12 @@
 function init(){
 alert("Page is loaded");
-codegenerator();
+//codegenerator();
 }
 
-function codegenerator(){
+/*function codegenerator(){
     var code = 1234;
     document.getElementById('answer').innerHTML = code;
-}
+}*/
 
 function guess(){
     let answer = document.getElementById('answer').value;
